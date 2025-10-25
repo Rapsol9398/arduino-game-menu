@@ -1,3 +1,3 @@
-this code can be run on an arduino leonardo with following components: \n
-2 Matrix LED panels \n
-1 joystick (4 pots, 1 button)
+this code can be run on an arduino leonardo with 
+2 Matrix LED panels and 
+1 joystick that has 4 pots and 1 button
